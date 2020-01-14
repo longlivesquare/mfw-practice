@@ -1,5 +1,9 @@
+body {
+    background-color: darkolivegreen;
+}
+
 .col-md-3 {
-    background-color: aqua;
+    background-color: rgb(143, 124, 101);
 }
 
 .col-md-9 {
@@ -7,5 +11,5 @@
 }
 
 .col-md-9:hover {
-    background-color: chartreuse;
+    background-color: cyan;
 }

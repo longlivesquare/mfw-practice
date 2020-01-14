@@ -1,0 +1,11 @@
+.col-md-3 {
+    background-color: aqua;
+}
+
+.col-md-9 {
+    background-color: aquamarine;
+}
+
+.col-md-9:hover {
+    background-color: chartreuse;
+}
